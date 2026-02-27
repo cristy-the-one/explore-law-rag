@@ -1,0 +1,9 @@
+llama-index
+llama-index-llms-ollama
+llama-index-vector-stores-chroma
+llama-index-embeddings-huggingface
+chromadb
+pymupdf
+docling
+tqdm
+pydantic
